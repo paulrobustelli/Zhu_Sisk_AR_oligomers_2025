@@ -3,7 +3,10 @@ Code Accompanying "How small molecules stabilize oligomers of a phase-separating
 
 This repository contains scripts and Jupyter notebooks for analyzing the **Tau-5<sub>R2</sub>** dimer simulations in the **apo**, **EPI-002–bound**, and **1aa–bound** conditions.
 
-The molecular dynamics trajectories used in this manuscript are stored separately due to file size limits and will be distributed via a shared download link (Dropbox / Globus / Zenodo).  
+The molecular dynamics trajectories used in this manuscript can be downloaded here:
+
+https://www.dropbox.com/scl/fi/ee6jmg26bgbzz7omb28rm/Zhu_et_al_dimer.zip?rlkey=vunfzpbij6tlpncj8bxqcl0k2&dl=0
+
 Place all downloaded trajectory files in a folder named `trajectory/` before running any notebooks.
 
 ## 📖 Reading the Trajectories in Python
