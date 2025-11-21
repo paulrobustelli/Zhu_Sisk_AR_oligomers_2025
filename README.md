@@ -1,5 +1,5 @@
 # Zhu_Sisk_AR_oligomers_2025
-Code Accompanying "Molecular mechanisms of small molecules that stabilize oligomers of a phase-separating intrinsically disordered protein"
+Code Accompanying "How small molecules stabilize oligomers of a phase-separating intrinsically disordered protein"
 
 This repository contains scripts and Jupyter notebooks for analyzing the **Tau-5<sub>R2</sub>** dimer simulations in the **apo**, **EPI-002–bound**, and **1aa–bound** conditions.
 
